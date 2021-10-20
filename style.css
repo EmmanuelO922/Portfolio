@@ -3,3 +3,17 @@
 h1 {
   color: green;
 }
+
+#navbar{
+  text-decoration: none;
+  background-color: lightblue;
+  color: green;
+}
+
+#About{
+  color: white;
+}
+
+#home{
+  background-color: black;
+}
