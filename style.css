@@ -1,17 +1,55 @@
 /* CSS files add styling rules to your content */
 
 h1 {
-  color: blue;
+  color: orange;
+  font-weight: bold;
+  font-size: 48px;
+  display:flex;
+  justify-content: center;
 }
 
 #navbar{
   text-decoration: none;
   background-color: lightblue;
   color: green;
+  display: flex;
+  justify-content: space-between;
+  justify-content: space-around;
 }
 
 #About{
+  color: white;
 }
 
 #home{
+  background-color: black;
+}
+
+.contactlogo{
+  width: 150px;
+}
+
+.contact{
+  display: flex;
+  justtify-content: flex-start;
+}
+
+#connect{
+  background-color: black;
+}
+
+#contactMe a{
+  color: white;
+  text-decoration: white;
+  font-size: 48px;
+}
+
+#goHome{
+  display:flex;
+  justify-content: flex-end;
+}
+
+#bitmo{
+  display:flex;
+  justify-content: center;
 }
